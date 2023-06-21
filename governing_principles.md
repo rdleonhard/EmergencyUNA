@@ -20,6 +20,7 @@
 4. **Conflict Resolution**: _[Outline procedures for resolving disputes among members.]_
 5. **Limitation of Liability**: Managers of the DAO UNA will not be personally liable for the debts, liabilities, or other obligations of the DAO UNA to the fullest extent permissible under law.
 6. **Indemnification**: Managers shall be indemnified and held harmless by the DAO UNA to the fullest extent permissible under law.
+7. **Not A Partnership**: 
 
 ## IV. Financial Management
 
