@@ -2,7 +2,7 @@
 
 ## I. Purpose
 
-1. **Purpose**: The purpose of the DAO UNA is to engage in activities related to _[specify the purpose]_.
+1. **Purpose**: The purpose of the DAO UNA shall be to engage in any lawful acts or activities for which an unincorporated nonprofit association ("***UNA***") may be organized under the Nevada UNA Act. Without limiting, qualifying or otherwise altering the meaning of the immediately proceeding sentence, the DAO UNA shall engage in profit-making activities if, and only if, profits from such activities are used or set aside for the DAO UNA's nonprofit purposes.
 
 ## II. Membership
 
@@ -27,7 +27,7 @@
 1. **Revenue**: _[Define the main sources of revenue.]_
 2. **Treasury**: _[Outline how the treasury is managed.]_
 3. **Administrative Costs**: _[Outline how administrative costs are covered.]_
-4. **Profits**: _[Outline how profits are used or distributed.]_
+4. **Profits**: _[Outline how profits are used or set aside for non-profit activities.]_
 
 ## V. Amendments to the Governing Principles
 
