@@ -8,7 +8,7 @@ These terms and conditions (**Terms**) govern the purchase of tokens from the li
 - The owners of the accounts controlling the multisig wallet associated with the Site
 - If applicable, the Nevada unincorporated nonprofit association associated with the Site 
 
-Hereinafter collectively referred to as **us**, **we**, **our**, and the purchasers of the tokens from the site (**you**, **your**).
+Hereinafter collectively referred to as **us**, **we**, **our**, and the purchasers of the tokens from the Site (**you**, **your**).
 
 By purchasing tokens from our Juicebox project page, which is hosted on several instances of the Juicebox protocol, including at the URL [https://juicebox.money](https://juicebox.money) (the **Tokens**), you agree to the following:
 
