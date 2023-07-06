@@ -6,7 +6,7 @@ These terms and conditions (**Terms**) govern the purchase of tokens from the li
 
 - The developers of the Site
 - The owners of the accounts controlling the multisig wallet associated with the Site
-- If applicable, the Nevada unincorporated nonprofit association associated with the Site 
+- If applicable, the Nevada unincorporated nonprofit association associated with the Site (the (**UNA**)
 
 Hereinafter collectively referred to as **us**, **we**, **our**, and the purchasers of the tokens from the Site (**you**, **your**).
 
