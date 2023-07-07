@@ -44,40 +44,29 @@ By purchasing tokens from our Juicebox project page, you represent and warrant t
 
 You shall not use the Tokens in any manner except as permitted by these Terms. In particular, you may **NOT**:
 
-#### 1. 
-Use the Tokens in any dishonest or unlawful manner, for fraudulent or malicious activities, or in any manner inconsistent with these Terms.
+- a. Use the Tokens in any dishonest or unlawful manner, for fraudulent or malicious activities, or in any manner inconsistent with these Terms.
 
-#### 2. 
-Violate applicable laws or regulations in any way.
+- b. Violate applicable laws or regulations in any way.
 
-#### 3. 
-Infringe upon any proprietary rights, including but not limited to copyrights, patents, trademarks, or trade secrets.
+- c. Infringe upon any proprietary rights, including but not limited to copyrights, patents, trademarks, or trade secrets.
 
-#### 4. 
-Use the Site to transmit any data or send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware, or any other harmful programs or computer code designed to adversely affect the operation of any computer software or hardware.
+- d. Use the Site to transmit any data or send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware, or any other harmful programs or computer code designed to adversely affect the operation of any computer software or hardware.
 
-#### 5. 
-Use any deep linking, web crawlers, bots, spiders or other automatic devices, programs, scripts, algorithms, or methods, or any similar or equivalent manual processes to access, obtain, copy, monitor, replicate or bypass the Site.
+- e. Use any deep linking, web crawlers, bots, spiders or other automatic devices, programs, scripts, algorithms, or methods, or any similar or equivalent manual processes to access, obtain, copy, monitor, replicate or bypass the Site.
 
-#### 6. 
-Make any back-up or archival copies of the Site or any part thereof, including disassembling or de-compilation of the Site.
+- f. Make any back-up or archival copies of the Site or any part thereof, including disassembling or de-compilation of the Site.
 
-#### 7. 
-Violate public interests, public morals, or the legitimate interests of others, including any actions that would interfere with, disrupt, negatively affect, or prohibit other users from using the Site.
+- g. Violate public interests, public morals, or the legitimate interests of others, including any actions that would interfere with, disrupt, negatively affect, or prohibit other users from using the Site.
 
-#### 8. 
-Use the Tokens for market manipulation (such as pump and dump schemes, wash trading, self-trading, front-running, quote stuffing, and spoofing or layering, regardless of whether prohibited by law).
+- h. Use the Tokens for market manipulation (such as pump and dump schemes, wash trading, self-trading, front-running, quote stuffing, and spoofing or layering, regardless of whether prohibited by law).
 
-#### 9. 
-Reverse look-up, track or seek to track any information of any other token holder.
+- i. Reverse look-up, track or seek to track any information of any other token holder.
 
 ## 4. Disclaimers
 
-### a. 
-**WE MAKE NO WARRANTY OF ANY KIND**, implied, express, or statutory, including any warranties of title, non-infringement of third-party rights, merchantability, satisfactory quality, fitness for a particular purpose, and freedom from computer virus or other malicious, destructive or corrupting code, agent, program or macros, in conjunction with the Tokens, the right, this Agreement, or any information and materials provided to the Purchaser. The Tokens are provided on an **"AS IS"** and **"AS AVAILABLE"** basis. You hereby acknowledge and agree that you have not relied upon any other statement or agreement, whether written or oral, with respect to your use, access, and ownership of the Tokens.
+- a. **WE MAKE NO WARRANTY OF ANY KIND**, implied, express, or statutory, including any warranties of title, non-infringement of third-party rights, merchantability, satisfactory quality, fitness for a particular purpose, and freedom from computer virus or other malicious, destructive or corrupting code, agent, program or macros, in conjunction with the Tokens, the right, this Agreement, or any information and materials provided to the Purchaser. The Tokens are provided on an **"AS IS"** and **"AS AVAILABLE"** basis. You hereby acknowledge and agree that you have not relied upon any other statement or agreement, whether written or oral, with respect to your use, access, and ownership of the Tokens.
 
-### b. 
-To the maximum extent permitted by applicable law, none of our developers, deployers, multisig holders, associations, agents, attorneys, or representatives will be liable for any direct, indirect, special, incidental, intangible, or consequential losses or damages arising out of or relating to the sale or purchase of the Tokens or the usage of the Site.
+- b. To the maximum extent permitted by applicable law, none of our developers, deployers, multisig holders, associations, agents, attorneys, or representatives will be liable for any direct, indirect, special, incidental, intangible, or consequential losses or damages arising out of or relating to the sale or purchase of the Tokens or the usage of the Site.
 
 ## 5. No Fiduciary Duties
 
