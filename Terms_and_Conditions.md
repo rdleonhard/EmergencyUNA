@@ -22,36 +22,30 @@ If you disagree with any part of these Terms or cannot comply with the requireme
 
 By purchasing tokens from our Juicebox project page, you represent and warrant that:
 
-### a. 
-As an individual, legal person, or other organization, you possess full legal capacity and authority to agree and bind yourself to these Terms.
+- a. As an individual, legal person, or other organization, you possess full legal capacity and authority to agree and bind yourself to these Terms.
 
-### b. 
-You are at least 18 or are of the legal age to form a binding contract under the laws applicable to your jurisdiction.
+- b. You are at least 18 or are of the legal age to form a binding contract under the laws applicable to your jurisdiction.
 
-### c. 
-Your purchase of the Tokens is not prohibited by applicable law, and is at all times compliant with applicable law, including but not limited to regulations on anti-money laundering, anti-corruption, and counter-terrorist financing (**CFT**).
+- c. Your purchase of the Tokens is not prohibited by applicable law, and is at all times compliant with applicable law, including but not limited to regulations on anti-money laundering, anti-corruption, and counter-terrorist financing (**CFT**).
 
-### d. 
-If you are acting as an employee or agent of a legal entity, and enter into these Terms on their behalf, you represent and warrant that you have all the necessary rights and authorizations to bind such legal entity.
+- d. If you are acting as an employee or agent of a legal entity, and enter into these Terms on their behalf, you represent and warrant that you have all the necessary rights and authorizations to bind such legal entity.
 
-### e. 
-You are not purchasing these tokens with an expectation of profit, and you have not relied upon any representation or warranty made by us, or any other person acting on our behalf.
+- e. You are not purchasing these tokens with an expectation of profit, and you have not relied upon any representation or warranty made by us, or any other person acting on our behalf.
 
-### f. 
-You fully understand that this protocol is decentralized and that the programming cannot be changed, updated, or upgraded, and that no one can reverse a transaction once it has been made.
+- f. You fully understand that this protocol is decentralized and that the programming cannot be changed, updated, or upgraded, and that no one can reverse a transaction once it has been made.
 
-### g. 
-You represent and agree that you are not entering into a partnership with us by purchasing the Tokens or ascending to the Terms.
+- g. You represent and agree that you are not entering into a partnership with us by purchasing the Tokens or ascending to the Terms.
 
-### h. 
-You represent that you are not located in, or accessing the protocol from, any of the jurisdictions prohibited by the United States Office of Foreign Asset Control (**OFAC**), including but not limited to Burma (Myanmar), Cuba, Iran, Sudan Syria, the Western Balkans, Belarus, Côte d’Ivoire, Democratic Republic of the Congo, Iraq, Lebanon, Liberia, Libya, North Korea, Russia, sanctioned areas of Ukraine, Somalia, Venezuela, Yemen, Zimbabwe, or any other **Prohibited Jurisdictions**.
+- h. You represent that you are not located in, or accessing the protocol from, any of the jurisdictions prohibited by the United States Office of Foreign Asset Control (**OFAC**), including but not limited to Burma (Myanmar), Cuba, Iran, Sudan Syria, the Western Balkans, Belarus, Côte d’Ivoire, Democratic Republic of the Congo, Iraq, Lebanon, Liberia, Libya, North Korea, Russia, sanctioned areas of Ukraine, Somalia, Venezuela, Yemen, Zimbabwe, or any other **Prohibited Jurisdictions**.
+
+- i. You acknowledge, represent, and agree that by holding possession of the Tokens you may be subject to membership in an unincorporated nonprofit association either (i) by operation of the law; or (ii) by a majority of the multisig holders voting to declare an unincorporated nonprofit association under Nevada law. This membership status may entail certain rights and obligations as defined by the UNA's governing principles and applicable laws governing unincorporated nonprofit associations. As a member, you may be required to comply with the DAO's governance decisions, participate in decision-making processes, and adhere to the UNA's code of conduct and rules. If you don't wish to be a member or wish to dissociatate from the UNA, you must dispose of your tokens.
 
 ## 3. Restrictions
 
 You shall not use the Tokens in any manner except as permitted by these Terms. In particular, you may **NOT**:
 
 #### 1. 
-Use the Services in any dishonest or unlawful manner, for fraudulent or malicious activities, or in any manner inconsistent with these Terms.
+Use the Tokens in any dishonest or unlawful manner, for fraudulent or malicious activities, or in any manner inconsistent with these Terms.
 
 #### 2. 
 Violate applicable laws or regulations in any way.
