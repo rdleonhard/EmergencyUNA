@@ -16,7 +16,7 @@ By purchasing tokens from our Juicebox project page, which is hosted on several 
 - You are bound by the Terms
 - You comply with the requirements mentioned herein
 
-If you disagree with any part of these Terms or cannot comply with the requirements herein, please refrain from accessing or using the Site or purchasing the Tokens. Please note, when using some features of the Services, you may be subject to additional terms and conditions applicable to those features.
+If you disagree with any part of these Terms or cannot comply with the requirements herein, please refrain from accessing or using the Site or purchasing the Tokens. Please note, when using some features of the Site, you may be subject to additional terms and conditions applicable to those features.
 
 ## 2. Eligibility
 
