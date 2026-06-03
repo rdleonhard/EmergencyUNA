@@ -1,35 +1,99 @@
 # EmergencyUNA
-DO NOT UNDER ANY CIRCUMSTANCES USE THIS REPOSITORY FOR LEGAL ADVICE. THIS IS FOR EXPERIMENTAL PURPOSES ONLY. ALWAYS CONSULT A LAWYER PRIOR TO DOING ANYTHING.
 
+**EmergencyUNA is an experimental legal-engineering repository for DAO governance and contingency planning.** It explores how a decentralized autonomous organization might preserve operational continuity and designate a forum, manager, and counsel if a court, regulator, or counterparty attempts to characterize the DAO as an unincorporated nonprofit association ("UNA").
 
-### What is an UNA?
+> **Not legal advice.** This repository is for research, drafting, and educational experimentation only. It is not legal advice, does not create an attorney-client relationship, and should not be relied upon to form, operate, defend, or restructure any organization. DAOs, token holders, multisig participants, contributors, and developers should consult qualified counsel in every relevant jurisdiction before taking action.
 
-An unincorporated nonprofit association (UNA) is the default legal category for groups of individuals who come together to engage in nonprofit activities. Unlike more formal legal entities, such as nonprofit corporations, UNAs traditionally lack a separate legal identity distinct from their individual members. This characteristic has significant implications, particularly from a legal standpoint, as it means that the liabilities, obligations, and responsibilities of the UNA are typically shared among its individual members.
+## Why this matters
 
-This shared liability aspect has often been a source of concern and complexity in legal matters involving UNAs. To illustrate the potential risks, let's consider a hypothetical scenario: Suppose you joined an amateur baseball team that operates as an UNA. During a game, a baseball is hit into the stands, causing severe injuries to a spectator. In this situation, if the team is an UNA and no other legal entity is in place, you, as a member, could be held personally liable for the damages suffered by the injured person.
+A DAO may not intend to be a legal entity. That does not prevent a plaintiff, regulator, court, or other third party from arguing that the DAO is an association of persons acting together for a common purpose. In an adverse proceeding, that characterization can matter because it may affect:
 
-This concept of personal liability stems from the fact that an UNA lacks a distinct legal identity. As a result, the law may attribute the actions and consequences of the UNA to each individual member personally. This means that if the UNA faces legal claims or obligations, the members could be individually responsible for any resulting liabilities, legal fees, or damages.
+- who can be served with process;
+- whether the DAO can appear through counsel;
+- whether token holders, voters, delegates, developers, multisig signers, or other participants face personal-liability arguments;
+- which jurisdiction's association law applies;
+- whether the association has capacity to contract, hold property, appoint agents, or retain counsel; and
+- whether governance has any emergency procedure for responding to litigation, regulatory action, treasury compromise, or protocol-level crisis.
 
-### Why would any sane person want to be part of an UNA?
+EmergencyUNA is intended to help think through those problems before a crisis occurs.
 
-They typically don't. However, there are instances where individuals may find themselves inadvertently part of a UNA, which can lead to unexpected legal complexities and potential liabilities. 
+## What is a UNA?
 
-Take, for example, the case of the Ooki DAO. In this specific situation, the Commodity Futures Trading Commission (CFTC) sought to hold the Ooki DAO accountable for alleged violations of the Commodities Exchange Act. Despite heroic arguments from LeXpunK and a16z, who acted as amici (friends of the court), the judge ruled that the CFTC had "sufficiently alleged, for the purposes of their service motion, that Ooki DAO is an unincorporated association" under California law.
+An unincorporated nonprofit association is generally a group of persons joined together by mutual consent for a nonprofit purpose, without having formed a corporation, LLC, foundation, trust, or other formal legal entity. Historically, many such associations lacked a legal identity distinct from their members, which created uncertainty around property ownership, contract capacity, litigation capacity, and member liability.
 
-The ruling shed light on an important aspect of DAO, namely, that individuals who own a DAO's tokens can potentially be considered part of an UNA, *even if they're just passive token holders*. The court noted that "based on the complaint it seems that individuals who own but do not vote their token still comprise the DAO because the purpose of holding a token is being able to vote on the DAO's governance."
+Modern statutes based on, or inspired by, the Uniform Unincorporated Nonprofit Association Act ("UUNAA") may give an UNA a more coherent legal status. Depending on the jurisdiction and statute, an UNA may be able to own property, contract, sue or be sued, appoint agents, and limit member liability for association obligations.
 
-This raises concerns, particularly in worst-case scenarios, where the absence of a clear legal separation between the DAO UNA and its individual members could create a situation where personal liability extends to all token holders. This is particularly alarming considering the decentralized nature of many DAOs, which lack a centralized governance structure or legal entity that could defend itself in court.
+The exact result is jurisdiction-specific. The statute, case law, facts, governance records, member conduct, and applicable conflict-of-laws rules all matter.
 
-### What can be done?
+## DAO-specific concern
 
-In recent years, there has been a growing recognition of the limitations faced by unincorporated nonprofit associations (UNAs), leading several states and Washington, DC to enact legislation based on the Uniform Unincorporated Nonprofit Association Act (UUNAA). The UUNAA serves as a model framework that aims to enhance the legal status and protections afforded to UNAs.
+DAOs create a hard version of the UNA problem. A DAO may have no board, no manager, no conventional registered agent, no entity wrapper, and no obvious person authorized to retain counsel. At the same time, it may have token holders, voters, delegates, multisig signers, developers, service providers, treasury assets, governance forums, protocol documentation, and public statements that an adversary may try to treat as evidence of association.
 
-States such as South Carolina, Kentucky, Pennsylvania, Arkansas, Iowa, Nevada, and Washington, DC have adopted legislation inspired by the UUNAA. These jurisdictions acknowledge the importance of providing UNAs with a distinct legal identity, similar to that of incorporated nonprofit organizations. This recognition brings forth numerous advantages and opportunities for UNAs.
+The Ooki DAO enforcement action highlighted the risk that a DAO may be treated as an unincorporated association for procedural or liability purposes. The more decentralized the DAO, the more important it becomes to have a credible emergency governance pathway for service, representation, treasury authorization, and litigation response.
 
-A key benefit offered to UNAs under UUNAA-inspired legislation is the ability to obtain a separate entity status independent of their individual members. This legal recognition empowers the UNA to enter into contracts, own property, and assume responsibility for its own obligations and liabilities. Consequently, individual members of the UNA generally enjoy limited liability, shielding their personal assets from the organization's debts and legal claims.
+## Project objective
 
-Moreover, with the conferred entity status, UNAs gain the capacity to own and transfer property. This grants them the ability to acquire various assets, such as real estate, vehicles, or intellectual property, in the name of the organization. Additionally, it allows UNAs to enter into agreements, leases, and contracts on behalf of the association, facilitating their operational activities and ensuring long-term sustainability.
+The goal of this repository is to explore a framework under which a DAO can state, in advance:
 
-The concept of UNAs for decentralized autonomous organizations (DAOs) has been proposed and developed by Aaron Wright, a notable law professor and cypherpunk advocate, and further expanded upon by a16z in a series of research papers. Building upon these ideas, the objective of this repository is to establish a legal framework that enables DAOs to declare themselves as UNAs within jurisdictions that have enacted UUNAA-inspired legislation.
+1. it does **not** concede that it is a UNA or any other legal entity merely by publishing emergency procedures;
+2. if a competent authority nevertheless characterizes it as a UNA, the DAO designates a fallback jurisdiction and procedural framework;
+3. the DAO has an emergency method for appointing a manager, agent, or committee;
+4. the DAO can authorize counsel to appear, defend, settle, or otherwise respond on behalf of the asserted association;
+5. governance participants can distinguish emergency legal-defense authority from ordinary protocol governance; and
+6. token holders, voters, and passive participants receive clearer notice of the intended limits of their role.
 
-The goal is to provide DAOs with the ability to assert that they do not consider themselves UNAs, but if they are categorized as such, they can choose a specific jurisdiction, such as Nevada, which offers comprehensive liability protections for their members. Furthermore, the repository aims to grant governance powers to token holders and/or multisig holders, allowing them to appoint a manager, and hire an attorney who could represent the DAO UNA in court.
+## Suggested repository structure
+
+The project should evolve toward a structure like this:
+
+```text
+EmergencyUNA/
+├── README.md                  # Project overview and warnings
+├── docs/
+│   ├── design-principles.md   # Goals, assumptions, and drafting posture
+│   ├── jurisdiction-matrix.md # Statutory comparison by state/jurisdiction
+│   └── threat-model.md        # Litigation/regulatory/treasury crisis scenarios
+├── templates/
+│   ├── emergency-una-resolution.md
+│   ├── manager-appointment.md
+│   ├── counsel-engagement-authority.md
+│   └── no-admission-of-status.md
+└── examples/
+    └── sample-dao-emergency-process.md
+```
+
+## Drafting principles
+
+Any future documents in this repository should preserve the following drafting posture:
+
+- **No admission by publication.** A DAO should not accidentally concede entity status merely by preparing contingency documents.
+- **Emergency-only authority.** Litigation-defense or crisis-response authority should be narrowly scoped and should not silently centralize ordinary governance.
+- **Jurisdiction specificity.** Each statutory claim should be tied to a specific jurisdiction and verified against current law.
+- **Role clarity.** Token holders, voters, delegates, multisig signers, contributors, and service providers should not be lumped together without analysis.
+- **Counsel-first execution.** Any real-world use should be reviewed and tailored by qualified counsel before adoption.
+- **Operational realism.** The framework should account for how DAOs actually coordinate: governance forums, Snapshot votes, on-chain proposals, multisigs, delegates, Discord/Telegram, and emergency security councils.
+
+## Immediate next improvements
+
+High-value next steps for this repository:
+
+1. Add a jurisdiction matrix comparing states that have adopted UUNAA-style statutes.
+2. Add model emergency resolutions with bracketed drafting notes.
+3. Add a threat model for service of process, regulatory enforcement, treasury compromise, and protocol governance capture.
+4. Add a disclaimer and contribution policy for legal-template pull requests.
+5. Add citations to primary legal authorities and clearly separate law, commentary, and open questions.
+
+## Contributing
+
+Contributions are welcome, but legal templates require special care. A useful contribution should:
+
+- cite primary authority where possible;
+- distinguish statutory text from commentary;
+- avoid presenting experimental language as settled law;
+- identify the jurisdiction being discussed;
+- include assumptions and open questions; and
+- avoid uploading confidential client materials, privileged analysis, or non-public DAO communications.
+
+## Status
+
+Experimental. Not production-ready. Not a substitute for counsel.
